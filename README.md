@@ -11,7 +11,7 @@ Examining environmental and species factors to determine the most important elem
 
 Exploring sentiment among the towns people and the level of support/resistence they provided the Minister at the centre of the "witch outbreak".
 
-## [Finding Bigfoot by Moonlight EDA in SQL, Dashboard in Tableau](https://slaing77.github.io/Finding-Bigfoot_by_moonlight/)
+## [Finding Bigfoot by Moonlight EDA in SQL, Dashboard in Tableau](https://github.com/slaing77/Finding-Bigfoot_by_moonlight)
 
 Determining when sightings are most likely to be reported.  I used fractional moonlight measurements to track both moon and beast.
 It turns out if you WANT a sasquatch encounter, avoid full moons and aim for a gibbous!
