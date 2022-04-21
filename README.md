@@ -16,6 +16,12 @@ Exploring sentiment among the towns people and the level of support/resistence t
 Determining when sightings are most likely to be reported.  I used fractional moonlight measurements to track both moon and beast.
 It turns out if you WANT a sasquatch encounter, avoid full moons and aim for a gibbous!
 
+## A selection of my Interactive Dashboard's
+[Nutritional Values of McDonald's Menu Items](https://public.tableau.com/app/profile/sarifeenah/viz/McDs_16245998109560/DASHBOARD)
+
+[UFO Sightings in Canada -Data from MUFON](https://public.tableau.com/app/profile/sarifeenah/viz/UFOsightingsinCanada1899-2019/CanadaUFOReports1899-2019)
+
+[Missing & Murdered Women in Canada - Based on the 2014 Dissertation Database DD compiled by Maryanne Pearce for her dissertation, "An Awkward Silence"](https://public.tableau.com/app/profile/sarifeenah/viz/MissingAndMurderedinCanada/MMVWDASHBOARD)
 
 ## You may get a kick out of this sweet Numerology calculator I created in Python.  It reveals the personal Tarot cards of anyone, based on their date of birth.
 
@@ -23,7 +29,7 @@ It turns out if you WANT a sasquatch encounter, avoid full moons and aim for a g
 
 [Here it is LIVE!](https://e-librarium.com/pages/tarot-power-card-calculator)
 
-My love of data driven story telling probably arises from my voracious ((pre-covid, pre-Bootcamp) book habits.
+My love of data driven story telling probably arises from my voracious (pre-covid, pre-Bootcamp) book habits.
 After two cross country moves, and one house fire it seemed it was much more practical to switch from bound books, to digital books.
 It was only a matter of time before I would want to learn how to create e-books and publications for myself.
 
