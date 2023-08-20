@@ -47,7 +47,7 @@ If proto-science fiction and gothic horror are your thing, check it out!
 [E-Pub File](https://github.com/slaing77/frank.github.io/raw/main/frankenstein.epub)
 Explore my HTML and CSS code and catch a sample of my writing in the forward.
 
-[PDF file](https://github.com/slaing77/frank.github.io/raw/main/Frankenstein-SRL.pdf)
+[PDF file](https://github.com/slaing77/frank.github.io/blob/d6c6b134f8d5a0e046e15e7bf31f2de03e437a3d/Frankenstein%20-%20Shelley%2C%20Mary.pdf)
 download directly if you wish
 
 ## You can find me in the following places
