@@ -25,8 +25,7 @@ Exploring sentiment among the towns people and the level of support/resistence t
 Determining when sightings are most likely to be reported.  I used fractional moonlight measurements to track both moon and beast.
 It turns out if you WANT a sasquatch encounter, avoid full moons and aim for a gibbous!
 
-
-## You may get a kick out of this sweet Numerology calculator I created in Python.  It reveals the personal Tarot cards of anyone, based on their date of birth.
+## You may get a kick out of this sweet Numerology calculator I created in Python.  It reveals the personal Tarot cards of anyone, based on their date of birth. I ran one of my favorite authors through it and determined  Mary Shelley's Soul Card is:  Strength  & her Personality Card is:  The Star
 
 [Here's my Code](https://github.com/slaing77/Numbers-Cards-)
 
@@ -41,8 +40,7 @@ It was only a matter of time before I would want to learn how to create e-books 
 I've been working with 17th and 18th century literature, reliving some of my favorite classics such as The Tell Tale Heart, and Frankenstien.
 I prepared an e-book of the  Mary Shelley's Frankenstien using Sigil, html and css. I created the cover art in photoshop, and wrote the forward.
 If proto-science fiction and gothic horror are your thing, check it out!
-_In case you were wondering, MaryShelley's Soul Card is:  Strength  & her Personality Card is:  The Star
- :)_
+
 **Scan QCode to get PDF Copy**
 #### ![Frankenstein QCode](https://github.com/slaing77/frank.github.io/blob/main/qrcode_frank_shelley.com.png)
 
