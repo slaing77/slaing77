@@ -46,11 +46,11 @@ _In case you were wondering, MaryShelley's Soul Card is:  Strength  & her Person
 **Scan QCode to get PDF Copy**
 #### ![Frankenstein QCode](https://github.com/slaing77/frank.github.io/blob/main/qrcode_frank_shelley.com.png)
 
-[Here's my Frankenstien repository](https://slaing77.github.io/frank.github.io/)
-
 [E-Pub File](https://github.com/slaing77/frank.github.io/raw/main/frankenstein.epub)
+Explore my HTML and CSS code and catch a sample of my writing in the forward.
 
 [PDF file](https://github.com/slaing77/frank.github.io/raw/main/Frankenstein-SRL.pdf)
+download directly if you wish
 
 ## You can find me in the following places
 
