@@ -44,7 +44,7 @@ I prepared an e-book of the  Mary Shelley's Frankenstien using Sigil, html and c
 If proto-science fiction and gothic horror are your thing, check it out!
 
 ## Scan QCode to get PDF Copy ##
-#### ![Frankenstein QCode](https://github.com/slaing77/frank.github.io/blob/main/qrcode_frank_shelley.com.png)
+#### ![Frankenstein QCode](https://github.com/slaing77/frankenstein/blob/main/qrcode_frank_shelley.com.png)
 
 [E-Pub File](https://github.com/slaing77/frank.github.io/raw/main/frankenstein.epub)
 Explore my HTML and CSS code and catch a sample of my writing in the forward.
