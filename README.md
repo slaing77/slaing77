@@ -31,7 +31,7 @@ I ran one of my favorite authors through it and determined  _Mary Shelley's Soul
 
 [Here's my Code](https://github.com/slaing77/Numbers-Cards-)
 
-[Here it is LIVE!](https://e-librarium.com/pages/tarot-power-card-calculator)
+[Here it is LIVE!](https://trinket.io/embed/python3/9c7d5e64e9?outputOnly=true&start=result)
 
 My love of data driven story telling probably arises from my voracious (pre-covid, pre-Bootcamp) book habits.
 After two cross country moves, and one house fire it seemed it was much more practical to switch from bound books, to digital books.
