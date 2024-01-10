@@ -31,7 +31,7 @@ It turns out if you WANT a sasquatch encounter, avoid full moons and aim for a g
 It reveals the personal Tarot cards of anyone, based on their date of birth. 
 I ran one of my favorite authors through it and determined  _Mary Shelley's Soul Card is:  Strength  & her Personality Card is:  The Star_
 
-[Here's my Code](https://github.com/slaing77/Numbers-Cards-)
+[Here's my Code](https://github.com/slaing77/Tarot-LP-BC-Calculator/blob/main/codes/Birth%20Card%20Calculator.ipynb)
 
 [Here it is LIVE!](https://trinket.io/embed/python3/9c7d5e64e9?outputOnly=true&start=result)
 
