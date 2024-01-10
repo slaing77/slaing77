@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Sareenah and I'm happy you've made it to my github!
-I'm a data analyst and visual artist who is passionate about data driven story telling.
-I strive to use or create clear and emotive visuals for intuitive navigation & to deliver data in a contextual environment. 
+I'm an analyst, copy writer and visual artist who is passionate about data driven story telling.
+I strive to use or create clear and emotive visuals to deliver data in a contextual environment. 
 
 #### Ad Copy and Content - Social Media Job Postings [Job Board](https://tarotguide.my.canva.site/jobboard)
 #### Story Telling in 60 seconds, or less [An Video intoduction to the Major's of Tarot](https://github.com/slaing77/Tarot?tab=readme-ov-file#videos)
-#### A selection of Interactive Dashboard's based on my EDA's of publicly available data sets.
+#### A selection of Interactive Dashboard's based on my EDA's 
 
 [Nutritional Values of McDonald's Menu Items](https://public.tableau.com/app/profile/sarifeenah/viz/McDs_16245998109560/DASHBOARD)
 
