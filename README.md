@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Sareenah and I'm happy you've made it to my github!
 I'm a data analyst and visual artist who is passionate about data driven story telling.
-I use interactive dashboarding as a method to deliver data in a contextual environment. I strive to use or create clear and emotive visuals for intuitive navigation. 
+I strive to use or create clear and emotive visuals for intuitive navigation & to deliver data in a contextual environment. 
 
-## A selection of my Interactive Dashboard's based on my EDA's (Exploration Data Analysis') of publicly available data sets. ##
+#### Ad Copy and Content - Social Media Job Postings [Job Board](https://tarotguide.my.canva.site/jobboard)
+#### Story Telling in 60 seconds, or less [An Video intoduction to the Major's of Tarot](https://github.com/slaing77/Tarot?tab=readme-ov-file#videos)
+#### A selection of Interactive Dashboard's based on my EDA's of publicly available data sets.
 
 [Nutritional Values of McDonald's Menu Items](https://public.tableau.com/app/profile/sarifeenah/viz/McDs_16245998109560/DASHBOARD)
 
@@ -10,28 +12,30 @@ I use interactive dashboarding as a method to deliver data in a contextual envir
 
 [Missing & Murdered Women in Canada - Based on the 2014 Dissertation Database DD compiled by Maryanne Pearce for her dissertation, "An Awkward Silence"](https://public.tableau.com/app/profile/sarifeenah/viz/MissingAndMurderedinCanada/MMVWDASHBOARD)
 
-# Examples of My EDA Work using a combination of SQL, Python and Tableau #
+## Examples of My EDA Work using a combination of SQL, Python and Tableau #
 
-## [Blueberries & Bees Regression Modeling in Python, Dashboard in Tableau](https://slaing77.github.io/blueberries_and_bees/)
+#### [Blueberries & Bees Regression Modeling in Python, Dashboard in Tableau](https://slaing77.github.io/blueberries_and_bees/)
 
 Examining environmental and species factors to determine the most important elements in producing volumous blueberry yields.  
 
-## [Salem Witch Trials EDA in Python](https://slaing77.github.io/salem-witch-trials/)
+#### [Salem Witch Trials EDA in Python](https://slaing77.github.io/salem-witch-trials/)
 
 Exploring sentiment among the towns people and the level of support/resistence they provided the Minister at the centre of the "witch outbreak".
 
-## [Finding Bigfoot by Moonlight EDA in SQL, Dashboard in Tableau](https://github.com/slaing77/Finding-Bigfoot_by_moonlight)
+#### [Finding Bigfoot by Moonlight EDA in SQL, Dashboard in Tableau](https://github.com/slaing77/Finding-Bigfoot_by_moonlight)
 
 Determining when sightings are most likely to be reported.  I used fractional moonlight measurements to track both moon and beast.
 It turns out if you WANT a sasquatch encounter, avoid full moons and aim for a gibbous!
 
-## You may get a kick out of this sweet Numerology calculator I created in Python. ##  
+### You may get a kick out of this sweet Numerology calculator I created in Python. ##  
 It reveals the personal Tarot cards of anyone, based on their date of birth. 
 I ran one of my favorite authors through it and determined  _Mary Shelley's Soul Card is:  Strength  & her Personality Card is:  The Star_
 
 [Here's my Code](https://github.com/slaing77/Numbers-Cards-)
 
 [Here it is LIVE!](https://trinket.io/embed/python3/9c7d5e64e9?outputOnly=true&start=result)
+
+[Interested in Tarot? visit my Tarot Project](https://github.com/slaing77/Tarot?tab=readme-ov-file#user-content-fnref-1-127988bfdcac20509c74146fca61a763)
 
 My love of data driven story telling probably arises from my voracious (pre-covid, pre-Bootcamp) book habits.
 After two cross country moves, and one house fire it seemed it was much more practical to switch from bound books, to digital books.
@@ -57,6 +61,8 @@ download directly if you wish
 [Linkedin](https://www.linkedin.com/in/sareenah-laing)
 
 [Twitter](https://twitter.com/ddataah)
+
+[Tictok](https://www.tiktok.com/@reenahlaing)
 
 [Tableau](https://public.tableau.com/app/profile/sarifeenah)
 
