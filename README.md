@@ -63,7 +63,7 @@ Explore my HTML and CSS code and catch a sample of my writing in the forward.
 [PDF file](https://github.com/slaing77/frank.github.io/blob/d6c6b134f8d5a0e046e15e7bf31f2de03e437a3d/Frankenstein%20-%20Shelley%2C%20Mary.pdf)
 download directly if you wish
 
-[If you want to support my work, you coukd buy a kindle copy here](https://www.amazon.com/Frankenstein-Modern-Prometheus-Mary-Shelley-ebook/dp/B0DCQRC2LR)
+[If you want to support my work, you could buy a kindle copy here](https://www.amazon.com/Frankenstein-Modern-Prometheus-Mary-Shelley-ebook/dp/B0DCQRC2LR)
 
 ## You can find me in the following places
 
