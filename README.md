@@ -37,6 +37,11 @@ I ran one of my favorite authors through it and determined  _Mary Shelley's Soul
 
 ### My latest app to go live - by Dark Folio Press
 [Daily Horoscopes](https://horoscopes.darkfoliopress.com/?fbclid=IwZnRzaAPpUu9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEefBhD7Aq6cbFRjutVnkGjff3IWTQlpCwvyr54R2d1glJvpgaikAs89SzjoJQ_aem_hTGDbJC-n8Y6vA_UUUsfFQ)
+with my deep domain knowledge of Tarot & Astrology, it was natural for me to capitalize on the enormous amount of astrology data that is freely available. 
+I created an OpenAi astrology assistant, capable of calculating natal charts, planetary transits, and daily horoscopes - pushing them daily to my website.
+this is one small piece of a larger app I am currently building.
+For a personalized experience get your [personal horoscope] (https://horoscopes.darkfoliopress.com/personal) Crafted from your birth chart here (
+its been an absolute joy engineering prompts for symbolic analysis.
 
 
 My love of data driven story telling probably arises from my voracious (pre-covid, pre-Bootcamp) book habits.
@@ -60,8 +65,7 @@ download directly if you wish
 
 ## You can find me in the following places
 
-[Dark Folio Press - Bringing Stories to Light] (https://www.darkfoliopress)
-
+[Dark Folio Press - Bringing Stories to Light] (https://www.darkfoliopress.com)
 [Linkedin](https://www.linkedin.com/in/sareenah-laing)
 
 [TikTok](https://www.tiktok.com/@reenahlaing)
