@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Sareenah and I'm happy you've made it to my github!
-I'm an analyst, copy writer and visual artist who is passionate about data driven story telling.
+I'm an analyst, financial auditor, copy writer and visual artist who is passionate about data driven story telling.
 I strive to use or create clear and emotive visuals to deliver data in a contextual environment. 
 
-#### Ad Copy and Content - Social Media Job Postings [Job Board](https://tarotguide.my.canva.site/jobboard)
+#### Ad Copy and Content - Social Media Job Postings [Job Board](https://www.canva.com/design/DAFxXqds6yY/YuPwCIQpSDYL6YM4ZTXJHg/view?utm_content=DAFxXqds6yY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he7e12be604)
 #### Story Telling in 60 seconds, or less [Video intoductions to the Major's of Tarot](https://www.tiktok.com/@reenahlaing)
 #### A selection of Interactive Dashboard's based on my EDA's 
 
@@ -35,7 +35,9 @@ I ran one of my favorite authors through it and determined  _Mary Shelley's Soul
 
 [Here it is LIVE!](https://trinket.io/embed/python3/9c7d5e64e9?outputOnly=true&start=result)
 
-[Interested in Tarot? visit my Tarot Project](https://github.com/slaing77/Tarot?tab=readme-ov-file#user-content-fnref-1-127988bfdcac20509c74146fca61a763)
+### My latest app to go live - by Dark Folio Press
+[Daily Horoscopes](https://horoscopes.darkfoliopress.com/?fbclid=IwZnRzaAPpUu9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEefBhD7Aq6cbFRjutVnkGjff3IWTQlpCwvyr54R2d1glJvpgaikAs89SzjoJQ_aem_hTGDbJC-n8Y6vA_UUUsfFQ)
+
 
 My love of data driven story telling probably arises from my voracious (pre-covid, pre-Bootcamp) book habits.
 After two cross country moves, and one house fire it seemed it was much more practical to switch from bound books, to digital books.
@@ -58,11 +60,11 @@ download directly if you wish
 
 ## You can find me in the following places
 
+[Dark Folio Press - Bringing Stories to Light] (https://www.darkfoliopress)
+
 [Linkedin](https://www.linkedin.com/in/sareenah-laing)
 
-[Twitter](https://twitter.com/ddataah)
-
-[Tictok](https://www.tiktok.com/@reenahlaing)
+[TikTok](https://www.tiktok.com/@reenahlaing)
 
 [Tableau](https://public.tableau.com/app/profile/sarifeenah)
 
