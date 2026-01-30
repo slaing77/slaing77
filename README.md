@@ -40,7 +40,7 @@ I ran one of my favorite authors through it and determined  _Mary Shelley's Soul
 with my deep domain knowledge of Tarot & Astrology, it was natural for me to capitalize on the enormous amount of astrology data that is freely available. 
 I created an OpenAi astrology assistant, capable of calculating natal charts, planetary transits, and daily horoscopes - pushing them daily to my website.
 this is one small piece of a larger app I am currently building.
-For a personalized experience get your [personal horoscope] (https://horoscopes.darkfoliopress.com/personal) Crafted from your birth chart here (
+For a personalized experience get your [personal horoscope](https://horoscopes.darkfoliopress.com/personal) Crafted from your birth chart here (
 its been an absolute joy engineering prompts for symbolic analysis.
 
 
