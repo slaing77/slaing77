@@ -2,8 +2,20 @@
 I'm an analyst, financial auditor, copy writer and visual artist who is passionate about data driven story telling.
 I strive to use or create clear and emotive visuals to deliver data in a contextual environment. 
 
+## Here is a selection of my work
+
+### NEW Website [Dark Folio Press](https://www.darkfoliopress.com)
+
+### NEW Github [Dark Folio Github](https://github.com/Dark-Folio-Press/READme)
+
+### CREATIVE STORY TELLING
+
 #### Ad Copy and Content - Social Media Job Postings [Job Board](https://www.canva.com/design/DAFxXqds6yY/YuPwCIQpSDYL6YM4ZTXJHg/view?utm_content=DAFxXqds6yY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he7e12be604)
+
 #### Story Telling in 60 seconds, or less [Video intoductions to the Major's of Tarot](https://www.tiktok.com/@reenahlaing)
+
+### DATA DRIVEN STORIES
+
 #### A selection of Interactive Dashboard's based on my EDA's 
 
 [Nutritional Values of McDonald's Menu Items](https://public.tableau.com/app/profile/sarifeenah/viz/McDs_16245998109560/DASHBOARD)
@@ -27,7 +39,7 @@ Exploring sentiment among the towns people and the level of support/resistence t
 Determining when sightings are most likely to be reported.  I used fractional moonlight measurements to track both moon and beast.
 It turns out if you WANT a sasquatch encounter, avoid full moons and aim for a gibbous!
 
-### You may get a kick out of this sweet Numerology calculator I created in Python. ##  
+### You may get a kick out of this sweet Numerology calculator I created in Python four years ago now! ##  
 It reveals the personal Tarot cards of anyone, based on their date of birth. 
 I ran one of my favorite authors through it and determined  _Mary Shelley's Soul Card is:  Strength  & her Personality Card is:  The Star_
 
@@ -67,7 +79,8 @@ download directly if you wish
 
 ## You can find me in the following places
 
-[Dark Folio Press - Bringing Stories to Light] (https://www.darkfoliopress.com)
+[Dark Folio Press - Bringing Stories to Light](https://www.darkfoliopress.com)
+
 [Linkedin](https://www.linkedin.com/in/sareenah-laing)
 
 [TikTok](https://www.tiktok.com/@reenahlaing)
