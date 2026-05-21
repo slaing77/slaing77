@@ -4,9 +4,11 @@ I strive to use or create clear and emotive visuals to deliver data in a context
 
 ## Here is a selection of my work
 
-### NEW Website [Dark Folio Press](https://www.darkfoliopress.com)
+### Website [Dark Folio Press](https://www.darkfoliopress.com)
 
 ### NEW Github [Dark Folio Github](https://github.com/Dark-Folio-Press/READme)
+
+### A lightweight evaluation framework for analyzing symbolic, astrological, emotionally interpretive, and mythology-adjacent LLM outputs.[https://github.com/slaing77/symbolic-eval-lab]
 
 ### CREATIVE STORY TELLING
 
