@@ -14,7 +14,8 @@ I strive to use or create clear and emotive visuals to deliver data in a context
 
 #### Ad Copy and Content - Social Media Job Postings [Job Board](https://www.canva.com/design/DAFxXqds6yY/YuPwCIQpSDYL6YM4ZTXJHg/view?utm_content=DAFxXqds6yY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he7e12be604)
 
-#### Short Form Story Telling [Myths, Magic & Monsters](https://www.tiktok.com/@reenahlaing)
+#### Short Form Video Story Telling [Myths, Magic & Monsters](https://www.tiktok.com/@reenahlaing)
+#### Story Boarding & Original Fiction [Dark Folio Press](https://www.darkfoliopress.com/projects)
 
 ### DATA DRIVEN STORIES
 
