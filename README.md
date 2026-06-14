@@ -8,8 +8,6 @@ I strive to use or create clear and emotive visuals to deliver data in a context
 
 ### NEW Github [Dark Folio Github](https://github.com/Dark-Folio-Press/READme)
 
-### [A lightweight evaluation framework for analyzing symbolic, astrological, emotionally interpretive, and mythology-adjacent LLM outputs.](https://github.com/slaing77/symbolic-eval-lab)
-
 ### CREATIVE STORY TELLING
 
 #### Ad Copy and Content - Social Media Job Postings [Job Board](https://www.canva.com/design/DAFxXqds6yY/YuPwCIQpSDYL6YM4ZTXJHg/view?utm_content=DAFxXqds6yY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he7e12be604)
