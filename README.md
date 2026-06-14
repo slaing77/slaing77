@@ -50,10 +50,14 @@ I ran one of my favorite authors through it and determined  _Mary Shelley's Soul
 This was my first app 🙂
 
 ### Apps - by Dark Folio Press
+
 [Daily Horoscopes](https://horoscopes.darkfoliopress.com/?fbclid=IwZnRzaAPpUu9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEefBhD7Aq6cbFRjutVnkGjff3IWTQlpCwvyr54R2d1glJvpgaikAs89SzjoJQ_aem_hTGDbJC-n8Y6vA_UUUsfFQ)
 with my deep domain knowledge of Tarot & Astrology, it was natural for me to capitalize on the enormous amount of astrology data that is freely available. 
-[For a personalized experience get your personal horoscope](https://horoscopes.darkfoliopress.com/personal) 
+
+[Get your personal horoscope](https://horoscopes.darkfoliopress.com/personal) 
+
 [Introducing The Oracle Of The Harpies](https://dark-folio-press.github.io/The-Oracle-Of-Harpies/)
+
 [The Daily Planetary Oracle - A Magical Ephemeris ](https://oracle.darkfoliopress.com/)
 
 
