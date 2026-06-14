@@ -8,13 +8,13 @@ I strive to use or create clear and emotive visuals to deliver data in a context
 
 ### NEW Github [Dark Folio Github](https://github.com/Dark-Folio-Press/READme)
 
-### A lightweight evaluation framework for analyzing symbolic, astrological, emotionally interpretive, and mythology-adjacent LLM outputs.[https://github.com/slaing77/symbolic-eval-lab]
+### [A lightweight evaluation framework for analyzing symbolic, astrological, emotionally interpretive, and mythology-adjacent LLM outputs.](https://github.com/slaing77/symbolic-eval-lab)
 
 ### CREATIVE STORY TELLING
 
 #### Ad Copy and Content - Social Media Job Postings [Job Board](https://www.canva.com/design/DAFxXqds6yY/YuPwCIQpSDYL6YM4ZTXJHg/view?utm_content=DAFxXqds6yY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he7e12be604)
 
-#### Story Telling in 60 seconds, or less [Video intoductions to the Major's of Tarot](https://www.tiktok.com/@reenahlaing)
+#### Short Form Story Telling [Myths, Magic & Monsters](https://www.tiktok.com/@reenahlaing)
 
 ### DATA DRIVEN STORIES
 
@@ -53,11 +53,9 @@ This was my first app 🙂
 ### Apps - by Dark Folio Press
 [Daily Horoscopes](https://horoscopes.darkfoliopress.com/?fbclid=IwZnRzaAPpUu9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEefBhD7Aq6cbFRjutVnkGjff3IWTQlpCwvyr54R2d1glJvpgaikAs89SzjoJQ_aem_hTGDbJC-n8Y6vA_UUUsfFQ)
 with my deep domain knowledge of Tarot & Astrology, it was natural for me to capitalize on the enormous amount of astrology data that is freely available. 
-For a personalized experience get your [personal horoscope](https://horoscopes.darkfoliopress.com/personal) Crafted from your birth chart here (
-its been an absolute joy engineering prompts for symbolic analysis.
+[For a personalized experience get your personal horoscope](https://horoscopes.darkfoliopress.com/personal) 
 [Introducing The Oracle Of The Harpies](https://dark-folio-press.github.io/The-Oracle-Of-Harpies/)
 [The Daily Planetary Oracle - A Magical Ephemeris ](https://oracle.darkfoliopress.com/)
-
 
 
 My love of data driven story telling probably arises from my voracious (pre-covid, pre-Bootcamp) book habits.
@@ -75,9 +73,6 @@ If proto-science fiction and gothic horror are your thing, check it out!
 
 [E-Pub File](https://github.com/slaing77/frank.github.io/raw/main/frankenstein.epub)
 Explore my HTML and CSS code and catch a sample of my writing in the forward.
-
-[PDF file](https://github.com/slaing77/frank.github.io/blob/d6c6b134f8d5a0e046e15e7bf31f2de03e437a3d/Frankenstein%20-%20Shelley%2C%20Mary.pdf)
-download directly if you wish
 
 [If you want to support my work, you could buy a kindle copy here](https://www.amazon.com/Frankenstein-Modern-Prometheus-Mary-Shelley-ebook/dp/B0DCQRC2LR)
 
