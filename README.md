@@ -1,19 +1,8 @@
 ## Hi there 👋 I'm Sareenah and I'm happy you've made it to my github!
 I'm an analyst, financial auditor, copy writer and visual artist who is passionate about data driven story telling.
-I strive to use or create clear and emotive visuals to deliver data in a contextual environment. 
+ 
 
 ## Here is a selection of my work
-
-### Website [Dark Folio Press](https://www.darkfoliopress.com)
-
-### NEW Github [Dark Folio Github](https://github.com/Dark-Folio-Press/READme)
-
-### CREATIVE STORY TELLING
-
-#### Ad Copy and Content - Social Media Job Postings [Job Board](https://www.canva.com/design/DAFxXqds6yY/YuPwCIQpSDYL6YM4ZTXJHg/view?utm_content=DAFxXqds6yY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he7e12be604)
-
-#### Short Form Video Story Telling [Myths, Magic & Monsters](https://www.tiktok.com/@reenahlaing)
-#### Story Boarding & Original Fiction [Dark Folio Press](https://www.darkfoliopress.com/projects)
 
 ### DATA DRIVEN STORIES
 
