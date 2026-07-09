@@ -49,25 +49,6 @@ with my deep domain knowledge of Tarot & Astrology, it was natural for me to cap
 
 [The Daily Planetary Oracle - A Magical Ephemeris ](https://oracle.darkfoliopress.com/)
 
-
-My love of data driven story telling probably arises from my voracious (pre-covid, pre-Bootcamp) book habits.
-After two cross country moves, and one house fire it seemed it was much more practical to switch from bound books, to digital books.
-It was only a matter of time before I would want to learn how to create e-books and publications for myself.
-
-## Literary Treat for You!
-
-I've been working with 17th and 18th century literature, reliving some of my favorite classics such as The Tell Tale Heart, and Frankenstien.
-I prepared an e-book of the  Mary Shelley's Frankenstien using Sigil, html and css. I created the cover art in photoshop, and wrote the forward.
-If proto-science fiction and gothic horror are your thing, check it out!
-
-## Scan QCode to get PDF Copy ##
-#### ![Frankenstein QCode](https://github.com/slaing77/frankenstein/blob/main/qrcode_frank_shelley.com.png)
-
-[E-Pub File](https://github.com/slaing77/frank.github.io/raw/main/frankenstein.epub)
-Explore my HTML and CSS code and catch a sample of my writing in the forward.
-
-[If you want to support my work, you could buy a kindle copy here](https://www.amazon.com/Frankenstein-Modern-Prometheus-Mary-Shelley-ebook/dp/B0DCQRC2LR)
-
 ## You can find me in the following places
 
 [Dark Folio Press - Bringing Stories to Light](https://www.darkfoliopress.com)
