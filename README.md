@@ -45,6 +45,11 @@ with my deep domain knowledge of Tarot & Astrology, it was natural for me to cap
 
 [Get your personal horoscope](https://horoscopes.darkfoliopress.com/personal) 
 
+
+[NEW!! One is never enough - 3 day horoscopes now available!](https://dark-folio-press.github.io/3day-scopes/)
+
+[NEW!! Grab an a Dark Folio Astro Widget for your site, blog or publication here -->](https://www.darkfoliopress.com/projects-8-1)
+
 [Introducing The Oracle Of The Harpies](https://dark-folio-press.github.io/The-Oracle-Of-Harpies/)
 
 [The Daily Planetary Oracle - A Magical Ephemeris ](https://oracle.darkfoliopress.com/)
